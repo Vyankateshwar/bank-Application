@@ -26,5 +26,7 @@ public class Main {
         System.out.println("enter years to calculate interest");
         int years =sc.nextInt();
         System.out.println(user.calculateInterest(years));
+
+        System.out.println("this is a change");
     }
 }
